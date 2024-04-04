@@ -23,7 +23,7 @@ When it comes to fiction, my favorite will always remain Jurassic Park. That boo
 If you want more of these gems from Ian Malcolm, click on [this](JPQ.md).
 
 ## My Programming
-This section is for what I've programmed. If you want to see my general interests, click here.
+This section is for what I've programmed. If you want to see my general interests, click [here](https://github.com/Augustus31/CSE110-Profile/blob/main/index.md#who-i-am).
 
 Most of my projects so far have been games. I have a website where all of them are listed:
 [website](https://honorius.us)
